@@ -9,11 +9,16 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+<<<<<<< HEAD
+        android:background="#99FFCC"
+        tools:ignore="MissingConstraints">
+=======
         android:background="#38b6FF"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="-16dp"
         tools:layout_editor_absoluteY="-49dp">
 
+>>>>>>> 2d208591231aa0611905b55f54921b51676dfe7f
         <TextView
             android:id="@+id/TxtCauhoi"
             android:layout_width="374dp"
